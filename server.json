@@ -1,14 +1,10 @@
 {
     "titulo": "Minecraft Hardcore 2",
-    "cambiarmodpack": "Minecraft Hardcore 3",
+    "cambiarmodpack": "Minecraft Hardcore test",
     "portada": "https://live.staticflickr.com/65535/53828079117_b81c252205_o.gif",
     "MODPACK": "https://www.dropbox.com/scl/fi/1rhl5kfbj149ks24bhjcy/act_1.7.3.2.zip?rlkey=t4qu61oh1a0kofwrge1e3d00e&dl=1",
-    "contenido": "123456789",
+    "contenido": "1234567890",
     "versionGame": "1.7.3.1",
-    "versionActualizacion": "1.7.3.2",
-    "linkActualizacion": "https://www.dropbox.com/scl/fi/1rhl5kfbj149ks24bhjcy/act_1.7.3.2.zip?rlkey=t4qu61oh1a0kofwrge1e3d00e&dl=1",
-    "premium": "https://launcher.mojang.com/download/MinecraftInstaller.exe",
-    "sk": "https://skmedix.pl/bin/_/3.2/x64/SKlauncher-3.2.exe",
-    "tl": "https://tlauncher.org/exe",
-    "fenix": "https://api.launcherfenix.com.ar/redirect?u=https%3A%2F%2Ffiles.launcherfenix.com.ar%2Fprelauncher%2Fv7%2FLauncherFenix-Minecraft-v7.exe&c&n=PreLauncherV7_EXE_Local"  
+    "versionActualizacion": "1.7.3.1",
+    "linkActualizacion": "https://www.dropbox.com/scl/fi/1rhl5kfbj149ks24bhjcy/act_1.7.3.2.zip?rlkey=t4qu61oh1a0kofwrge1e3d00e&dl=1"
   }
