@@ -1,11 +1,11 @@
 {
     "titulo": "Minecraft Hardcore 2",
-    "cambiarmodpack": "Minecraft Hardcore 2",
-    "portada": "https://live.staticflickr.com/65535/53960024383_cde4f40940_o.png",
-    "MODPACK": "https://www.dropbox.com/scl/fi/vjprply59wxvytcjuy7mw/mch2_realase_2024.zip?rlkey=di6o4tealkmz8rqkfv5bj200d&st=ldk6yvax&dl=1",
-    "contenido": "1234567890",
-    "versionGame": "1.7.3.1",
-    "versionActualizacion": "1.7.3.1",
+    "cambiarmodpack": "ÉXODO Hardcore",
+    "portada": "https://live.staticflickr.com/65535/54206425202_6cc9137a7c_o.gif",
+    "MODPACK": "https://www.dropbox.com/scl/fi/vrfchomo3rlk64aooxs92/exodo_hardcore_game.rar?rlkey=4bjeb2u0fuf2j2dtqxhkhqhnq&st=isai050l&dl=1",
+    "contenido": "iz05l1089RWGBsg6u5mx",
+    "versionGame": "1.0.2.5",
+    "versionActualizacion": "1.0.2.5",
     "linkActualizacion": "",
-    "memory": "4096"
+    "memory": "5120"
   }
